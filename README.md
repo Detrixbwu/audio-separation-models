@@ -10,7 +10,7 @@ Each model page includes:
 
 ## Models Included
 
-- [Demucs4 HT](models/demucs4_ht.md)  
+- [Demucs4 HT]([models/demucs4_ht.md](https://github.com/facebookresearch/demucs))  
 - [BS Roformer](models/bs_roformer.md)  
 - [MelBand Roformer](models/melband_roformer.md)  
 - [MDX23C](models/mdx23c.md)  
